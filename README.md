@@ -47,10 +47,9 @@ O objetivo principal é gerar uma amostra de dados com pacientes com mais de 50 
 
 ## Arquivos
 
-- `main.py`: Código principal que carrega os dados, faz as transformações e salva o arquivo resultante.
+- `pacientes_diabetes.py`: Código principal que carrega os dados, faz as transformações e salva o arquivo resultante.
 - `dataset/diabetes.csv`: Conjunto de dados PIMA original.
 - `dataset/pacientes.csv`: Arquivo CSV gerado com os pacientes com mais de 50 anos e as categorias de BMI.
-- `dataset/pacientes.xlsx`: Arquivo Excel gerado com bordas e cabeçalhos destacados para impressão.
 
 ## Como Contribuir
 
