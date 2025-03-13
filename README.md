@@ -43,7 +43,7 @@ O objetivo principal é gerar uma amostra de dados com pacientes com mais de 50 
    python pacientes_diabetes.py
    ```
 
-5. O arquivo gerado será salvo na pasta `dataset/` como `pacientes.xlsx` (Excel) ou `pacientes.csv` (CSV).
+5. O arquivo gerado será salvo na pasta `dataset/` como `pacientes.csv` (CSV).
 
 ## Arquivos
 
