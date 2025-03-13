@@ -40,7 +40,7 @@ O objetivo principal é gerar uma amostra de dados com pacientes com mais de 50 
 4. Execute o script principal:
 
    ```bash
-   python main.py
+   python pacientes_diabetes.py
    ```
 
 5. O arquivo gerado será salvo na pasta `dataset/` como `pacientes.xlsx` (Excel) ou `pacientes.csv` (CSV).
