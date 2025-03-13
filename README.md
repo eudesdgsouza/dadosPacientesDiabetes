@@ -25,8 +25,8 @@ O objetivo principal é gerar uma amostra de dados com pacientes com mais de 50 
 1. Clone este repositório para o seu computador:
 
    ```bash
-   git clone https://github.com/usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://https://github.com/eudesdgsouza/dadosPacientesDiabetes
+   cd dadosPacientesDiabetes
    ```
 
 2. Instale as dependências necessárias:
